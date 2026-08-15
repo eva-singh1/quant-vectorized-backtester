@@ -1,4 +1,4 @@
-# Quantitative Event Classification Pipeline: Information-Sampled Dollar Bars & Meta-Labeling
+# High-Frequency Algorithmic Execution Framework: Microstructure Modeling & Multi-Regime Simulation
 
 ## Overview
 This repository houses a production-grade, mathematically rigorous quantitative execution pipeline. The framework moves away from legacy time-frequency analysis framework vectors by deploying a dual-layer statistical classification architecture designed to normalize information flow variations, apply dynamic market volatility boundaries, and introduce high-confidence probabilistic filters to optimize risk-adjusted returns.
