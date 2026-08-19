@@ -124,4 +124,4 @@ To run this risk model locally on your machine, follow these command steps:
 ---
 
 ## 📚 Practitioner & Academic References
-* **Grądzki, P., et al. (2025).** *Algorithmic crypto trading using information-driven bars, triple barrier labeling and deep learning*. Financial Innovation, Springer Nature, 11(136).
+* **Grądzki, P., et al. (2025).** *Algorithmic crypto trading using information-driven bars, triple barrier labeling and deep learning.
